@@ -59,8 +59,8 @@ This project explores the effectiveness of **Large Language Models (LLMs)** vers
 
 ---
 
-✨ **Author:** [Your Name]  
-📅 **Date:** [Project Completion Date]  
+✨ **Author:** Mayank
+📅 **Date:** 10/02/2025
 📜 **License:** MIT  
 
 📌 _Feel free to contribute by submitting issues or pull requests!_ 🙌
