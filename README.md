@@ -1,6 +1,5 @@
 # 🚀 Comparing LLM vs ML for Small Datasets
 
-![Machine Learning vs LLM](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Neural_Network_Model.svg/800px-Neural_Network_Model.svg.png)
 
 ## 📌 Project Overview
 This project explores the effectiveness of **Large Language Models (LLMs)** versus traditional **Machine Learning (ML)** techniques on a structured healthcare dataset containing approximately **300,000 rows with 36 features**. The study aims to evaluate **performance, accuracy, and efficiency** of both approaches for small dataset applications.
@@ -30,6 +29,13 @@ This project explores the effectiveness of **Large Language Models (LLMs)** vers
 
 ### 4️⃣ Evaluation Metrics
 📊 Compare results based on performance scores and inference time.
+
+![Machine Learning vs LLM Image 1](1.png)  
+![Machine Learning vs LLM Image 2](2.png)  
+![Machine Learning vs LLM Image 3](3.png)  
+![Machine Learning vs LLM Image 4](4.png)  
+
+
 
 ## 📈 Results & Findings
 ✅ ML models showed **faster training times** and **higher structured-data accuracy**.  
